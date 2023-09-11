@@ -1,4 +1,4 @@
-package com.reizao.proj_exemplo_base;
+package com.reizao.projetoexemplo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

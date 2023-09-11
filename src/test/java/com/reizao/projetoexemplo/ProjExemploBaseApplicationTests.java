@@ -1,4 +1,4 @@
-package com.reizao.proj_exemplo_base;
+package com.reizao.projetoexemplo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
